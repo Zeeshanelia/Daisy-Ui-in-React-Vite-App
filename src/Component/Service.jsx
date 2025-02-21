@@ -4,6 +4,7 @@ import { FaFileVideo } from "react-icons/fa6";
 import { SiGooglemarketingplatform } from "react-icons/si";
 import { IoLogoDesignernews } from "react-icons/io5";
 import { MdOutlineAppRegistration } from "react-icons/md";
+
 export const Service = () => {
 
     return (<>
@@ -83,6 +84,7 @@ export const Service = () => {
                     <h2> Business Formation & Registration </h2>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi architecto nam.
                     </p>
+                    <hr />
                 </div>
             </div>  
         </div>
